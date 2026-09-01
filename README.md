@@ -1,1 +1,1 @@
-# AtliQ-Hardware-Finance-Supply-Chain-Analytics-using-SQL
+# AtliQ Hardware Finance & Supply Chain Ad Hoc Analysis
